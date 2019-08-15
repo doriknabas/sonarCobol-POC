@@ -1,4 +1,4 @@
-      $ SET SOURCEFORMAT"FREE"
+      
 IDENTIFICATION DIVISION.
 PROGRAM-ID.  MonthTable.
 AUTHOR.  Michael Coughlan.
